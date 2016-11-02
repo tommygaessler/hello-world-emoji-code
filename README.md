@@ -1,4 +1,4 @@
-# Hello World Emoji Code 🙋🏼🌎
+# Hello World in Emoji Code 🙋🏼🌎
 
 To run locally:
 
