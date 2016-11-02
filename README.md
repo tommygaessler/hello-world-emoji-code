@@ -8,4 +8,4 @@ To run locally:
 1.  Run by pasting `$ emojicode helloWorld.emojib` into command line!
 1.  Have fun!
 
-Docs: [http://www.emojicode.org/docs/](http://www.emojicode.org/docs/)!
+Docs: [http://www.emojicode.org/docs/](http://www.emojicode.org/docs)
